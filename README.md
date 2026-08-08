@@ -4,5 +4,5 @@
 
 ### Padrões usados:
 * Singleton -> Criacional
-* Facade    -> Estrutural
-* Strategy  -> Comportamental
+* Facade     -> Estrutural
+* Strategy   -> Comportamental
